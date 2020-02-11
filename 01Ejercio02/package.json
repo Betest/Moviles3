@@ -1,0 +1,14 @@
+{
+  "name": "ejemplo",
+  "version": "1.0.0",
+  "description": "ejemplo clase 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "author": "betest",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
